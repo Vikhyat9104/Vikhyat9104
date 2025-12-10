@@ -31,22 +31,6 @@ JAWS • NVDA • Narrator
 **Testing Tools**
 Axe DevTools • Accessibility Insights • WAVE • Colour Contrast Analyser (CCA)
 
----
-
-## 📂 **Featured Projects**
-
-### 🔹 **Accessibility Audit Samples**
-
-Real-world WCAG 2.1/2.2 evaluation reports, issue logs, and remediation notes.
-
-### 🔹 **Accessible UI Components**
-
-Keyboard-accessible modal, tabs, dropdowns, and form elements.
-
-### 🔹 **Portfolio Website (A11y-First)**
-
-Semantic HTML, ARIA roles, skip links, keyboard navigation.
-
 ## 📫 **Connect With Me**
 
 * ✉️ Email: *svikhyat2004@gmail.com*
