@@ -47,24 +47,6 @@ Keyboard-accessible modal, tabs, dropdowns, and form elements.
 
 Semantic HTML, ARIA roles, skip links, keyboard navigation.
 
----
-
-## 📈 **GitHub Stats**
-
-*(These will auto-update once added to your profile)*
-
-```
-![Vikhyat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vikhyat9104&show_icons=true)
-```
-
-```
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikhyat9104)
-```
-
-Replace `USERNAME` with your GitHub username.
-
----
-
 ## 📫 **Connect With Me**
 
 * ✉️ Email: *svikhyat2004@gmail.com*
