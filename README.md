@@ -35,7 +35,6 @@ Axe DevTools • Accessibility Insights • WAVE • Colour Contrast Analyser (C
 
 * ✉️ Email: *svikhyat2004@gmail.com*
 * 🔗 LinkedIn: *www.linkedin.com/in/vikhyat-srivastava*
-* 🌐 Portfolio: *add when ready*
 
 ---
 
